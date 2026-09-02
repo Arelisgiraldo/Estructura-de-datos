@@ -1,6 +1,6 @@
 """
 LABORATORIO 1 - Mostrar / verificar la matriz creada en disco
-Estudiante: Xiomara Echavarria
+Estudiante: Arelis Giraldo
 Este script lee y muestra una fila específica de la matriz generada por
 crear_matriz.py, sin necesidad de cargar la matriz completa en memoria
 ni recorrer el archivo desde el principio.

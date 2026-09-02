@@ -1,6 +1,6 @@
 # Laboratorio 1 - Matriz de 100.000 x 100.000 en disco
 
-Estudiante: Xiomara Echavarria 
+Estudiante: Arelis Giraldo 
 
 ## De qué se trata
 
