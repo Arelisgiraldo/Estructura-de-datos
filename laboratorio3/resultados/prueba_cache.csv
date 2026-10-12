@@ -1,0 +1,16 @@
+caso,repeticion,M,t_buscar_s,ns_por_nodo
+ids ordenados,1,1000,3.428211,68.56
+ids ordenados,2,1000,3.291716,65.83
+ids ordenados,3,1000,3.284398,65.69
+ids ordenados,4,1000,3.600675,72.01
+ids ordenados,5,1000,3.489255,69.78
+ids aleatorios,1,1000,7.088537,141.77
+ids aleatorios,2,1000,6.90433,138.09
+ids aleatorios,3,1000,6.77639,135.53
+ids aleatorios,4,1000,7.035808,140.71
+ids aleatorios,5,1000,7.290877,145.82
+"ids aleatorios, cada id creado junto a su estudiante",1,1000,3.617419,72.35
+"ids aleatorios, cada id creado junto a su estudiante",2,1000,3.614772,72.29
+"ids aleatorios, cada id creado junto a su estudiante",3,1000,3.556942,71.14
+"ids aleatorios, cada id creado junto a su estudiante",4,1000,3.713647,74.27
+"ids aleatorios, cada id creado junto a su estudiante",5,1000,3.858233,77.16
