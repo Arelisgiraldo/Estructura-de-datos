@@ -114,4 +114,3 @@ Yo, Arelis Giraldo, declaro que:
   - Escribí una primera versión del Quadtree siguiendo las instrucciones y pistas paso a paso de la IA, que revisaba cada parte: generar los puntos, la distancia, la fuerza bruta, la clase Caja y la clase Nodo.
   - La IA escribió la búsqueda de los k vecinos más cercanos de esa primera versión y después reescribió todo en una forma más corta, que es la versión final de `Quadtreetree.py`. También escribió `test.py`, `analisis.py`, el código de las gráficas y me ayudo a redactar este README.
   - Corrí las pruebas y el análisis en mi computador. Los tiempos y las gráficas de este repositorio son los que obtuve yo.
-- Estudié el código que entrego y me hago responsable de poder explicarlo.
